@@ -1,1 +1,2 @@
 This is text doc 0
+This is the change of the third commit.

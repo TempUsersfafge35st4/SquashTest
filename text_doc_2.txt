@@ -1,1 +1,2 @@
 This is text doc two
+This is a line added in the second commit
