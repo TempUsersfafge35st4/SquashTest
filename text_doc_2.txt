@@ -1,2 +1,4 @@
 This is text doc two
 This is a line added in the second commit
+Change for the planned commmit.
+Unplanned change.
